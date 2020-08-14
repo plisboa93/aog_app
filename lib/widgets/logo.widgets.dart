@@ -6,11 +6,11 @@ class Logo extends StatelessWidget {
     return Column(
       children: <Widget>[
         SizedBox(
-            height: 60,
+            height: 55,
           ),
           Image.asset(
             "assets/images/aog-white.png",
-            height: 80,
+            height: 70,
           ),
           SizedBox(
             height: 10,
